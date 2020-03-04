@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FakeGps.iml" filepath="$PROJECT_DIR$/FakeGps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YiuChoi@FakeGps.iml" filepath="$PROJECT_DIR$/YiuChoi@FakeGps.iml" group="YiuChoi@FakeGps" />
+      <module fileurl="file://$PROJECT_DIR$/app/YiuChoi@FakeGps-app.iml" filepath="$PROJECT_DIR$/app/YiuChoi@FakeGps-app.iml" group="YiuChoi@FakeGps/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
